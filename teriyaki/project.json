@@ -1,0 +1,8 @@
+{
+  "name": "Townwright",
+  "description": "Procedural fantasy town generator: suburbs, civic buildings, forests and townsfolk.",
+  "type": "play",
+  "category": "tool",
+  "created": "2026-06-11",
+  "tags": ["procedural", "generator", "fantasy"]
+}
